@@ -1,0 +1,16 @@
+# Environnement virtuel
+env/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Base de données locale
+db.sqlite3
+
+# Fichiers confidentiels
+.env
+
+# Fichiers médias
+media/
